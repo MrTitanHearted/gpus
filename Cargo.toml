@@ -10,7 +10,6 @@ documentation = "https://docs.rs/gpus/latest/gpus/"
 homepage = "https://github.com/MrTitanHearted/gpus"
 repository = "https://github.com/MrTitanHearted/gpus"
 keywords = ["gpu", "gpus", "adapters"]
-categories = ["CLI"]
 include = ["src/", "LICENSE", "README.md"]
 
 [profile.dev]
